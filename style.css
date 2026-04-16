@@ -58,7 +58,7 @@ header > p {
   max-width: 500px;
   padding: 10px;
   margin: auto;
-  margin-bottom: 20PX;
+  padding-bottom: 50px;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
@@ -157,11 +157,11 @@ div.video {
 }
 
 div.video > iframe {
-  position:absolute;
+  position: absolute;
   top: 5%;
   left: 5%;
   width: 90%;
-  height: 90%;  
+  height: 90%;
 }
 
 aside {
